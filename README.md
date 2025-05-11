@@ -1,4 +1,4 @@
-# Allure Test Suite
+# Allure Report
 
 ## Описание
 
